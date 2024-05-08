@@ -1,4 +1,8 @@
-### Hi I'm Donghwi Kim 👋 I wanna be good developer!
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm,%20KimDonghwi!&fontSize=90" />
+</h3>
+
+### Hello! 👋 I wanna be good developer! Thanks!
 
 ## once i've learned before skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
