@@ -1,4 +1,4 @@
-### Hi I'm Donghwi Kim 👋
+### Hi I'm Donghwi Kim 👋 I wanna be good developer!
 
 ## once i've learned before skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
