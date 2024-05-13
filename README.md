@@ -18,10 +18,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-## Mini Project
+## Mini Project (JSP, OracleSql) [24.1.31 ~ 24.2.6]
 <li><a href="https://github.com/KDH94/miniProject1">Mini Project</a></li>
 
-## Team Project
+## Team Project (Spring Boot, ajax, MySql) [24.2.27 ~ 24.3.21]
 <li><a href="https://github.com/KDH94/teamProject">Team Project</a></li>
 <!--
 **KDH94/kdh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
