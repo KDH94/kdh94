@@ -18,12 +18,20 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-## Mini Project (JSP, OracleSql) [24.1.31 ~ 24.2.6]
-<li><a href="https://github.com/KDH94/miniProject1">Mini Project</a></li>
+## Mini Project 1 (JSP, Tomcat, OracleSql) [24.1.31 ~ 24.2.6]
+<li><a href="https://github.com/KDH94/miniProject1">Online Game Selling Site</a></li>
 
-## Team Project (Spring Boot, ajax, MySql) [24.2.27 ~ 24.3.21]
-<li><a href="https://github.com/KDH94/teamProject">Team Project</a></li>
+## Team Project 1 (Spring Boot, ajax, MySql) [24.2.27 ~ 24.3.21]
+<li><a href="https://github.com/KDH94/teamProject">EcoMarket</a></li>
+
+## Mini Project 2 (React, Express, MySql) [24.4.4 ~ 24.4.11]
+<li><a href="https://github.com/KDH94/react_sample3">Mini Project 2</a></li>
+
+
 <!--
+## Team Project 2 (Flutter, Firebase) [24.5. ~ 24.6.7] (WIP)
+<li><a href="https://github.com/vvyejivv/wooki">Wooki</a></li>
+
 **KDH94/kdh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
