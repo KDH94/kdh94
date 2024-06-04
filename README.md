@@ -32,7 +32,7 @@
 <li><a href="https://github.com/KDH94/teamProject">EcoMarket</a></li>
 
 ## Mini Project 2 (React, Express, MySql) [24.4.4 ~ 24.4.11]
-<li><a href="https://github.com/KDH94/react_sample3">Mini Project 2</a></li>
+<li><a href="https://github.com/KDH94/react_sample3">Simple SNS to use React</a></li>
 
 ## Team Project 2 (Flutter, Firebase) [24.5.16. ~ 24.6.7] (WIP)
 <li><a href="https://github.com/vvyejivv/wooki">Wooki</a></li>
