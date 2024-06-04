@@ -27,11 +27,11 @@
 ## Mini Project 2 (React, Express, MySql) [24.4.4 ~ 24.4.11]
 <li><a href="https://github.com/KDH94/react_sample3">Mini Project 2</a></li>
 
-
-<!--
-## Team Project 2 (Flutter, Firebase) [24.5. ~ 24.6.7] (WIP)
+## Team Project 2 (Flutter, Firebase) [24.5.16. ~ 24.6.7] (WIP)
 <li><a href="https://github.com/vvyejivv/wooki">Wooki</a></li>
 
+
+<!--
 **KDH94/kdh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
